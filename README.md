@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate AI enthusiast, chatbot creator, and autom
 
 ## 🔧 Projects I’m Proud Of
 
-- **[MindWatch]((https://github.com/codedavin/MindWatch))**: A mental health chatbot that detects sentiment and responds empathetically — powered by RoBERTa and LLaMA.
+- **[MindWatch]([https://github.com/codedavin/MindWatch])**: A mental health chatbot that detects sentiment and responds empathetically — powered by RoBERTa and LLaMA.
 - **AI-Powered Phishing Detector**: A robust real-time system that catches phishing attempts using NLP + heuristics.
 
 > Want to see more? Dive into my repos right here on GitHub → [@codedavin](https://github.com/codedavin)
